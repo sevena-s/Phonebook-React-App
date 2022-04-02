@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e8c32dd7.chunk.css",
+    "main.js": "/static/js/main.3b5b6951.chunk.js",
+    "main.js.map": "/static/js/main.3b5b6951.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.219a9527.js",
+    "runtime-main.js.map": "/static/js/runtime-main.219a9527.js.map",
+    "static/js/2.918b6caf.chunk.js": "/static/js/2.918b6caf.chunk.js",
+    "static/js/2.918b6caf.chunk.js.map": "/static/js/2.918b6caf.chunk.js.map",
+    "static/js/3.5e6d5e12.chunk.js": "/static/js/3.5e6d5e12.chunk.js",
+    "static/js/3.5e6d5e12.chunk.js.map": "/static/js/3.5e6d5e12.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e8c32dd7.chunk.css.map": "/static/css/main.e8c32dd7.chunk.css.map",
+    "static/js/2.918b6caf.chunk.js.LICENSE.txt": "/static/js/2.918b6caf.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Outfit-Regular.a4b1f278.woff2",
+    "static/media/contacts.png": "/static/media/contacts.cd5dee10.png",
+    "static/media/search-icon.png": "/static/media/search-icon.08ed5917.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.219a9527.js",
+    "static/js/2.918b6caf.chunk.js",
+    "static/css/main.e8c32dd7.chunk.css",
+    "static/js/main.3b5b6951.chunk.js"
+  ]
+}
